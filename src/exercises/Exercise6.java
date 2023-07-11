@@ -7,7 +7,7 @@ package exercises;
 import java.util.Locale;
 import java.util.Scanner;
 
-public class exercise6 {
+public class Exercise6 {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         Locale.setDefault(Locale.US);
