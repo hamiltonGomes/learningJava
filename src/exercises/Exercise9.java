@@ -5,7 +5,7 @@ package exercises;
 
 import java.util.Scanner;
 
-public class exercise9 {
+public class Exercise9 {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         int in = 0, out = 0, entradas, valorEntrada;

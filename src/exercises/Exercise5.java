@@ -2,7 +2,7 @@ package exercises;
 
 import java.util.Scanner;
 
-public class exercise5 {
+public class Exercise5 {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         int password, passwordAttempt;

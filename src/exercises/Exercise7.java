@@ -2,7 +2,7 @@ package exercises;
 
 import java.util.Scanner;
 
-public class exercise7 {
+public class Exercise7 {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         int resposta, alcool = 0, gasolina = 0, diesel = 0;

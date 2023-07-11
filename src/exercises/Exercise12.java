@@ -6,7 +6,7 @@ package exercises;
 
 import java.util.Scanner;
 
-public class exercise12 {
+public class Exercise12 {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         int n = scan.nextInt();

@@ -7,7 +7,7 @@ import java.util.Scanner;
 //Se o ponto estiver na origem, escreva a mensagem “Origem”.
 //Se o ponto estiver sobre um dos eixos escreva “Eixo X” ou “Eixo Y”, conforme for a situação.
 
-public class exercise3 {
+public class Exercise3 {
 
     public static void main(String[] args) {
         double x, y;
