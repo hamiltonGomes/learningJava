@@ -2,7 +2,7 @@ package exercises;
 
 import java.util.Scanner;
 
-public class main {
+public class Exercise17 {
     public static void main(String[] args) {
         double valorProduto, valorParcelas;
         int metodoPagamento;
